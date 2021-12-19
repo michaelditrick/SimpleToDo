@@ -2,9 +2,9 @@
 
 **SimpleToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Michael Ditrick**
+Submitted by: **Michael Mwalongo**
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -20,23 +20,25 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+This was my first time building an app and working with both android studio and kotlin.I was challenged to follow through the tutorials but I enjoyed the process. I am going to continue working on the optional and other additional features.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Michael Mwalongo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
