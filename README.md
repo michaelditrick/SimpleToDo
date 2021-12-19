@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+* Adding a short alert display when user adds or removes an item from the list of items.
 
 
 ## Video Walkthrough
@@ -34,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 This was my first time building an app and working with both android studio and kotlin.I was challenged to follow through the tutorials but I enjoyed the process. I am going to continue working on the optional and other additional features.
 
 ## License
